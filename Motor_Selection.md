@@ -28,7 +28,8 @@
 
 &emsp;&emsp;计算过程：
 
-&emsp;&emsp;（1）计算 旋转构件（天车轮、齿轮）转速 $n$（ $n$<sub> 天车轮</sub>（轮轨驱动）、 $n$<sub> 齿轮</sub>（齿轮齿条驱动））
+&emsp;&emsp;（1）计算 旋转构件（天车轮、齿轮）转速 $n$（ $n$<sub> 天车轮</sub>、 $n$<sub> 齿轮</sub>）
+
 $$
 n = \frac{v}{\pi D}
 $$
