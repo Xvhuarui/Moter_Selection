@@ -28,7 +28,7 @@
 
 &emsp;&emsp;计算过程：
 
-&emsp;&emsp;（1）计算 旋转构件（天车轮、齿轮）转速 $n$（$n$<sub> 天车轮 </sub>、$n$<sub> 齿轮 </sub>）
+&emsp;&emsp;（1）计算 旋转构件（天车轮、齿轮）转速 $n$（可分为$n$<sub> 天车轮 </sub>与$n$<sub> 齿轮 </sub>）
 
 $$
 n = \frac{v}{\pi D}
@@ -75,11 +75,7 @@ $$
 &emsp;&emsp;（1）计算 电机角加速度 $\alpha$
 
 $$
-\begin{array}{c}
 \alpha = \frac{2ai}{D}
-\\
-\alpha = \frac{2ai}{d}
-\end{array}
 $$
 
 &emsp;&emsp;（2）计算 工况涉及摩擦力扭矩（轮轨导向的摩擦力扭矩 $T_f$）
@@ -92,7 +88,7 @@ $$
 F_f = 0.05 \times m \times g
 $$
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;其中，0.05为轮轨导向的摩擦系数；$g$ 为重力加速度。
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;其中，0.05为轮轨导向的摩擦系数；而$g$为重力加速度。
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.2）计算 轮轨导向的摩擦力扭矩 $T_f$
 
