@@ -82,7 +82,7 @@ $$
 
 &emsp;&emsp;&emsp;&emsp;1）计算 轮轨导向的摩擦力扭矩
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.1）计算 轮轨滚动摩擦力 $F_f$
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;a. 计算 轮轨滚动摩擦力 $F_f$
 
 $$
 F_f = 0.05 \times m \times g
@@ -90,7 +90,7 @@ $$
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;其中，0.05为轮轨导向的摩擦系数； $g$ 为重力加速度。
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;1.2）计算 轮轨导向的摩擦力扭矩 $T_f$
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;b. 计算 轮轨导向的摩擦力扭矩 $T_f$
 
 $$
 T_f = F_f \times \frac{D}{2i}
