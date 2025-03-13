@@ -118,9 +118,7 @@ $$
 
 &emsp;&emsp;所需参数：电机转速 $n$<sub> 电机 </sub>、电机扭矩 $T$
 
-&emsp;&emsp;计算过程：
-
-&emsp;&emsp;（1）计算 电机功率 $P$
+&emsp;&emsp;计算过程：计算 电机功率 $P$
 
 $$
 P = \frac{n_{电机}T}{9550}
